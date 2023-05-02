@@ -4,6 +4,10 @@ Communicate with GPT-3 using OpenAISwift library
 
 この記事では、SwiftUIを使ってOpenAI GPT-3とのチャットアプリを作成する方法を紹介します。このアプリでは、OpenAISwiftライブラリを使用してGPT-3とコミュニケーションを行います。
 
+
+
+![Simulator Screen OpenAI API iPhone 14 - 2023-05-02 at 18 35 41](https://user-images.githubusercontent.com/109361431/235637618-89b58cb9-b10d-4ce1-9437-eabb167eee64.gif)
+
 ## 前提条件
 
 この記事で取り上げるコードは、SwiftUIとOpenAISwiftを利用しています。事前に以下の手順が必要です。
